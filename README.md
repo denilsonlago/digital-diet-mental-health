@@ -1,4 +1,4 @@
-# digital-diet-mental-health
+# Digital-diet-mental-health
 
 Análise exploratória e preparação de dados sobre hábitos digitais e saúde mental.
 
