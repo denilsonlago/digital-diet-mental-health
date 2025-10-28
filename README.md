@@ -47,3 +47,6 @@ O projeto inclui:
 
 ---
 
+📌 Autor
+Denilson Nunes do Lago
+Pós-graduando em Ciência de Dados e Inteligência Artificial - SENAC
