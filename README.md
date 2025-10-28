@@ -1,4 +1,4 @@
-# Digital-diet-mental-health
+# 🌐 Análise de Dados sobre Saúde Mental e Comportamento Digital
 
 Análise exploratória e preparação de dados sobre hábitos digitais e saúde mental.
 
