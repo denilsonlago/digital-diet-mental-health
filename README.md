@@ -47,6 +47,14 @@ O projeto inclui:
 
 ---
 
+## 🔍 Principais Insights
+
+- **Tempo de tela e ansiedade**: Correlação positiva (quanto maior o tempo em telas, maior o nível de ansiedade).
+- **Exercício físico**: Correlação positiva com saúde mental (mais horas de exercício → melhor pontuação).
+- **Sono**: Participantes com menos de 6h de sono tendem a ter piores indicadores de humor e saúde mental.
+- **Redes sociais**: Uso excessivo correlaciona negativamente com humor.
+
+---
 📌 Autor
-Denilson Nunes do Lago
+Denilson Nunes do Lago - 
 Pós-graduando em Ciência de Dados e Inteligência Artificial - SENAC
