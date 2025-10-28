@@ -55,6 +55,6 @@ O projeto inclui:
 - **Redes sociais**: Uso excessivo correlaciona negativamente com humor.
 
 ---
-📌 Autor
+📌 Autor:
 Denilson Nunes do Lago - 
 Pós-graduando em Ciência de Dados e Inteligência Artificial - SENAC
